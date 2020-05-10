@@ -2,5 +2,5 @@
 
 ## Things needed to create a repo
  - LICENSE
- -`.gitignore` file
+ - `.gitignore` file
  - Finally Repo name
